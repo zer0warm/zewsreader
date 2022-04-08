@@ -1,0 +1,21 @@
+{
+  "count": 1,
+  "list": [
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/"
+    },
+    {
+      "name": "ZeroDayInitiatives",
+      "url": "https://www.zerodayinitiative.com/blog/?format=rss"
+    },
+    {
+      "name": "MyAnimeList",
+      "url": "https://myanimelist.net/rss/news.xml"
+    },
+    {
+      "name": "AnimeNewsNetwork",
+      "url": "https://www.animenewsnetwork.com/news/rss.xml?ann-edition=world"
+    }
+  ]
+}
